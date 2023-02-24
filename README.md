@@ -24,4 +24,5 @@ SPC 브랜드 매장 정보를 크롤링을 통해 수집하고 시각화하여 
 	- lat : 위도
 	- lng : 경도
 
-
+# Article
+본 프로젝트는 [링크](https://hellp-world.tistory.com/327)에서 확인할 수 있습니다.
